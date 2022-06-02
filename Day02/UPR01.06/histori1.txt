@@ -1,0 +1,564 @@
+    1  sudo apt update install
+    2  sudo apt instal build-essential
+    3  sudo apt install build-essential
+    4  sudo dpkg
+    5  gcc
+    6  suddo apt install gcc
+    7  sudo apt install  build-essential
+    8  sudo dpkg -a
+    9  sudo apt update
+   10  sudo apt install build-essential
+   11  sudo apt update
+   12  sudo apt install build-essential
+   13  gcc --version
+   14  sudo apt install build-essential
+   15  sudo dpkg --configure -a
+   16  sudo apt update 
+   17  sudo apt install build-essential
+   18  sudo gcc --version
+   19  nano testprogram.c
+   20  mkdir MyDir
+   21  ls
+   22  mkdir dir1 
+   23  ls
+   24  dir1
+   25  mkdir MMS C Camp
+   26  ls
+   27  mkdir 'MMS C Camp'
+   28  ls
+   29  cd MMS C Camp
+   30  cd "MMS C Camp"
+   31  ls
+   32  ls 
+   33  cd ..
+   34  ls
+   35  rmdir C
+   36  ;s
+   37  ls
+   38  rmdir MMS
+   39  ls
+   40  cd ..
+   41  gcc hello.c
+   42  gcc hello.c -o hello
+   43  .a/out
+   44  cd desktop
+   45  cd home
+   46  cd /home
+   47  gcc result.c
+   48  ./sum
+   49  gcc result.c
+   50  ls
+   51  gcc result.c -o Result
+   52  Result
+   53  Result.c
+   54  gcc Result.c
+   55  gcc result.c
+   56  56
+   57  gcc result.c
+   58  a.out
+   59  .a/out
+   60  cd result.c
+   61  cd home
+   62  cd /home
+   63  a.out 
+   64  gcc result.c
+   65  mkdir --help
+   66  man mkdir
+   67  pwd --help
+   68  man pwd
+   69  man c
+   70  man scanf
+   71  man array
+   72  man printf
+   73  result.c
+   74  ./result
+   75  gcc power.c -o power
+   76  ./power
+   77  5
+   78  gcc power.c -0 power -lm
+   79  gcc power.c -o power -lm
+   80  ./power
+   81  cd /home
+   82  gcc power.c -o power -lm
+   83  ./power.c
+   84  ./power
+   85  cd ..
+   86  gcc power.c -o power -lm
+   87  ls
+   88  cd home 
+   89  gcc power.c -o power -lm
+   90  cd ..
+   91  ;s
+   92  ls
+   93  cd ..
+   94  ls
+   95  cd /home/monkata/MMS C Camp
+   96  cd /home/monkata/"MMS C Camp"
+   97  gcc power.c -o power -lm
+   98  ./power
+   99  ./power.c
+  100  cd ..
+  101  ls
+  102  cd monkata
+  103  cd /monkata
+  104  cd /home
+  105  cd /monkata
+  106  cd /home/monkata
+  107  ;s
+  108  ls
+  109  gcc power.c -o power -lm
+  110  ./power.c
+  111  ./power
+  112  ls
+  113  gedit
+  114  gedit power.c
+  115  ./power
+  116  cd home
+  117  cd /home
+  118  ./power
+  119  ./result
+  120  cd ..
+  121  ./resilt
+  122  ./result
+  123  gcc hello.c\
+  124  gcc hello.c
+  125  geddit hello.c
+  126  gedit hello,c
+  127  gedit hello.c
+  128  gcc hello.c
+  129  hello.c
+  130  hello.c 
+  131  cd hello .c
+  132  cd hello.c
+  133  hello.c
+  134  gcc hello.c
+  135  hello.c
+  136  /hello.c
+  137  gcc hello.c -o hello
+  138  hello/
+  139  hello
+  140  ./hello
+  141  pwd
+  142  ls
+  143  pwd
+  144  ls
+  145  cd 
+  146  cd ..
+  147  ls
+  148  cd..
+  149  c ..
+  150  cd ..
+  151  pwd
+  152  cd ..
+  153  cd home
+  154  cd monkata
+  155  ls
+  156  cd ../..
+  157  pwd
+  158  cd home
+  159  pwd
+  160  cd monkata
+  161  pwd 
+  162  cd
+  163  cd ~
+  164  ~
+  165  cd MMS15
+  166  cd monkata
+  167  pwd
+  168  cd ../../..
+  169  cd -
+  170  pwd
+  171  cd ../../..
+  172  pwd
+  173  cd -
+  174  pwd
+  175  mkdir MyDir2
+  176  ls
+  177  cd MyDir
+  178  cd ../Mydir2
+  179  cd ../MyDir2
+  180  cd -
+  181  cd/home/vnachev/MyDir2
+  182  cd/home/monkata/MyDir2
+  183  cd /home/monkata/MyDir2
+  184  ls
+  185  cd -
+  186  cd ~/MyDir2
+  187  pwd
+  188  cd.
+  189  cd .
+  190  ./hello
+  191  a=10
+  192  echo $a
+  193  echo $USER
+  194  echo $PATH
+  195  echo $?
+  196  gedit monkata.c
+  197  cd /monkata.c
+  198  ls
+  199  sudo su
+  200  sudo apt install git
+  201  ls
+  202  cd /home/"MMS CAMP"/Day01
+  203  cd "MMS CAMP"/Day01
+  204  ./testche
+  205  ls
+  206  gcc testche.c -o test
+  207  ./test
+  208  gcc testche.c -o test
+  209  ./test
+  210  ls
+  211  cd ..
+  212  ls
+  213  cd ..
+  214  cd /home
+  215  ls
+  216  cd ..
+  217  cd "MMS CAMP"
+  218  cd /Day01
+  219  cd Day01
+  220  gcc testche.c -o test
+  221  ./test
+  222  gcc testche.c -o test
+  223  ./test
+  224  date
+  225  cat
+  226  cat test.c
+  227  ls -l
+  228  cd /home
+  229  cd !
+  230  cd ~
+  231  ls -l
+  232  ls -h
+  233  ls 
+  234  ls -lh
+  235  man 7-hier
+  236  man 7 hier
+  237  cd /
+  238  ;s
+  239  ls
+  240  cd /home
+  241  ls
+  242  cd monkata
+  243  cd
+  244  ls
+  245  cd /Desktop
+  246  cd Desktop
+  247  cd /home
+  248  ls
+  249  cd monkata/
+  250  ls
+  251  cd Desktop/
+  252  cd /
+  253  cd /home/monkata/Desktop/
+  254  cd ..
+  255  ls
+  256  pwd
+  257  echo asdf
+  258  echo monkata
+  259  cd "MMS CAMP"
+  260  ls
+  261  cd Day02
+  262  vim test
+  263  sudo apt install vim
+  264  vim test
+  265  gedit test
+  266  cd /home
+  267  cd ..
+  268  ls
+  269  ls -R
+  270  ls
+  271  cd home
+  272  cd monkata
+  273  ls
+  274  cd "MMS CAMP"/
+  275  cd Day01
+  276  ls -R
+  277  ls -a
+  278  ls
+  279  ls -a
+  280  cd ~
+  281  ls
+  282  ls -a
+  283  ls -lt
+  284  ls -lth
+  285  ./a.out
+  286  ./test.c
+  287  cd "MMS CAMP"/
+  288  cd day01
+  289  cd Day01
+  290  ls -l
+  291  ./a.out
+  292  cd /home
+  293  ls
+  294  ls -l
+  295  cd "MMS
+  296  ls
+  297  cd monkata
+  298  ls
+  299  cd "MMS CAMP"/
+  300  cd Day01
+  301  gedit testfile
+  302  ls -l
+  303  chmod u+x testfile
+  304  cat testfle
+  305  cat testfile
+  306  chmod u-w testfile
+  307  chmod u+w testfile
+  308  ./testfile
+  309  testfile
+  310  cat testfile
+  311  ./testfile
+  312  echo "moncheto" > testfile
+  313  cat testfile
+  314  echo "Hello!"
+  315  echo "P1 5 5 1 0 0 0 1 0 1 0 1 0 0 0 1 1 0 0 1 1 1 0 0 1 2
+  316  ls
+  317  cd "MMS CAMP"/
+  318  cd Day01
+  319  mkdir Homework
+  320  ls
+  321  cd Homework/
+  322  gcc proba.c -o homework_exercise1
+  323  ls
+  324  cd MMS\ CAMP/Day01/Homework/
+  325  gcc proba.c -o homework_exercise1
+  326  cd MMS\ CAMP/Day01/Homework/
+  327  gcc proba.c -o proba
+  328  cd MMS\ CAMP/Day02/Lection
+  329  cd MMS\ CAMP/Day02
+  330  mkdir Lection
+  331  cd Lection/
+  332  touchstreams.c
+  333  gedit touchstreams.c
+  334  gcc touchstreams.c -o string
+  335  ./string
+  336  cd MMS\ CAMP/Day02/Lection/
+  337  gedit sum.c
+  338  gcc sum.c -o sum
+  339  ./sum
+  340  gedit sum1.c
+  341  ./sum < sum1
+  342  ./sum < sum1.c
+  343  ls
+  344  cd Downloads/
+  345  sudo apt install deb.deb
+  346  cd Downloads/
+  347  sudo apt install code_1.67.2.1652812855_amd64.deb
+  348  ls > /dev/null
+  349  cat /dev/
+  350  cat /dev/null
+  351  echo "hello" > /dev/null
+  352  cat /dev/null
+  353  cd MMS\ CAMP/Day02/Lection/
+  354  gedit format.c
+  355  gcc format.c
+  356  ./a.out
+  357  sudo apt install code
+  358  sudo apt update code
+  359  sudo apt-get upgrade code
+  360  ./maxnum
+  361  gcc maxnum.c -o maxnum
+  362  ./maxnum
+  363  gcc maxnum.c -o maxnum
+  364  ./maxnum
+  365  touch vars.c
+  366  gcc vars.c
+  367  ./vars.c
+  368  ./a.out
+  369  gcc vars.c
+  370  ./a.out
+  371  gcc vars.c
+  372  ./a.out
+  373  gcc vars.c
+  374  ./a.out
+  375  gcc vars.c
+  376  ./a.out
+  377  gcc vars.c
+  378  ./a.out
+  379  gcc vars.c
+  380  ./a.out
+  381  gcc vars.c
+  382  ./a.out
+  383  touch loop.c
+  384  ./loop
+  385  gcc loop.c -o loop
+  386  ./loop
+  387  cp loop.c chisla
+  388  cp loop.c chisla.c
+  389  gcc numsystem.c -o numsys
+  390  ./numsys
+  391  gcc numsystem.c -o numsys
+  392  ./numsys
+  393  gcc numsystem.c -o numsys
+  394  ./numsys
+  395  gcc numsystem.c -o numsys
+  396  ./numsys
+  397  gcc numsystem.c -o numsys
+  398  ./numsys
+  399  gcc numsystem.c -o numsys
+  400  ./numsys
+  401  gcc numsystem.c -o numsys
+  402  ./numsys
+  403  gcc numsystem.c -o numsys
+  404  ./numsys
+  405  gcc numsystem.c -o numsys
+  406  ./numsys
+  407  gcc sumnum.c -o sumnum
+  408  ./sumnum
+  409  gcc sumnum.c -o sumnum
+  410  ./sumnum
+  411  gcc sumnum.c -o sumnum
+  412  ./sumnum
+  413  gcc sumnum.c -o sumnum
+  414  ./sumnum
+  415  gcc sumnum.c -o sumnum
+  416  ./sumnum
+  417  gcc sumnum.c -o sumnum
+  418  ./sumnum
+  419  gcc sumnum.c -o sumnum
+  420  ./sumnum
+  421  gcc sumnum.c -o sumnum
+  422  ./sumnum
+  423  sumnum | sort -n
+  424  ./sumnum | sort -n
+  425  gcc sumnum.c -o sumnum
+  426  ./sumnum | sort -n
+  427  ./sumnum < sort -n
+  428  cp sumnum.c maxnum.c
+  429  gcc maxnum.c -o maxnum
+  430  ./maxnum
+  431  ls
+  432  cd MMS\ CAMP/Day02/
+  433  mkdir Homework
+  434  cd Homewokr
+  435  cd Homework
+  436  gcc Body_mass_index.c -o BMI
+  437  gcc Body_mass_index.c -o BMI -lm
+  438  ./BMI
+  439  gcc Body_mass_index.c -o BMI -lm
+  440  ./BMI
+  441  gcc Body_mass_index.c -o BMI -lm
+  442  ./BMI
+  443  touch BMI_2.c
+  444  cp Body_mass_index.c BMI_2.c
+  445  gcc BMI_2.c -o BMInew -lm
+  446  ./BMInew
+  447  gcc BMI_2.c -o BMInew -lm
+  448  ./BMInew
+  449  gcc BMI_2.c -o BMInew -lm
+  450  ./BMInew
+  451  gcc Vertical cyilinder.c
+  452  gcc Vertical_cyilinder.c
+  453  ls
+  454  gcc vertical_cylinder.c -o vc -lm
+  455  ./vc
+  456  gcc vertical_cylinder.c -o vc -lm
+  457  ./vc
+  458  gcc vertical_cylinder.c -o vc -lm
+  459  ./vc
+  460  gcc Horizontal_cylinder.c -o HC -lm
+  461  ./HC
+  462  gcc Horizontal_cylinder.c -o HC -lm
+  463  ./HC
+  464  gcc Horizontal_cylinder.c -o HC -lm
+  465  ./HC
+  466  gcc task_1.c -o task1
+  467  ./task1
+  468  gcc task_1.c -o task1
+  469  ./task1
+  470  gcc task_1.c -o task1
+  471  ./task1
+  472  gcc task_1.c -o task1
+  473  ./task1
+  474  gcc task_1.c -o task1
+  475  ./task1
+  476  gcc task_1.c -o task1
+  477  ./task1
+  478  gcc task_1.c -o task1
+  479  ./task1
+  480  gcc task_1.c -o task1
+  481  ./task1
+  482  gcc task_1.c -o task1
+  483  ./task1
+  484  gcc task_1.c -o task1
+  485  ./task1
+  486  gcc task_1.c -o task1
+  487  ./task1
+  488  touch numbers.txt
+  489  ./task1 << numbers.txt
+  490  5
+  491  6
+  492  7
+  493  touch numbers.txt
+  494  ./task1 > numbers.txt
+  495  ./task1 < numbers.txt
+  496  ./task1 > numbers.txt
+  497  ./task1 < numbers.txt
+  498  ./task1 << numbers.txt
+  499  5
+  500  6
+  501  7
+  502  8
+  503  9
+  504  9
+  505  6
+  506  5
+  507  cat ./task1 < number.txt
+  508  touch number.txt
+  509  cat ./task1 < number.txt
+  510  gcc task_1.c -o task1
+  511  ./task1
+  512  ./task1 | numbers.txt
+  513  cat ./task1
+  514  gcc task_1.c -o task1
+  515  ./task1
+  516  ./task1 > numbers.txt
+  517  gcc task_1.c -o task1
+  518  ./task1 > numbers.txt
+  519  ./task1 < numbers.txt
+  520  ./task1 << numbers.txt
+  521  5
+  522  6
+  523  7
+  524  ./task1 << numbers.txt
+  525  890
+  526  50
+  527  30
+  528  ./task1 >> numbers.txt
+  529  ./task1 > numbers.txt
+  530  ./task1 << numbers.txt
+  531  5
+  532  6
+  533  7
+  534  ./task1 < numbers.txt
+  535  ./task << numbers.txt
+  536  5
+  537  8
+  538  190
+  539  ./task1 << numbers.txt
+  540  5
+  541  90
+  542  10
+  543  ls -l
+  544  cd MMS\ CAMP/Day02/Homework/
+  545  ls
+  546  numberstask3.txt | less
+  547  ./task1 | numberstask3.txt
+  548  ls -l
+  549  cd MMS\ CAMP/Day02/
+  550  touch UPR
+  551  cd UPR
+  552  mkdir UPR
+  553  mkdir UPR01.06
+  554  cd UPR01.06/
+  555  find -name test
+  556  find ~ -name test
+  557  history
+  558  history -gcc
+  559  history -n
+  560  history
+  561  history grep gcc
+  562  grep history
+  563  less history
+  564  history > histori1.txt
